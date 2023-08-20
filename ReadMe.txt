@@ -4,10 +4,10 @@ Before running the code or the .exe file, ensure that you open the command promp
 
 **Windows:**
 
-	pip install numpy matplotlib streamlit pillow tensorflow
+	pip install numpy matplotlib streamlit pillow tensorflow streamlit_lottie
 
 **Mac:** 
-	pip3 install numpy matplotlib streamlit pillow tensorflow
+	pip3 install numpy matplotlib streamlit pillow tensorflow streamlit_lottie
 
 
 
